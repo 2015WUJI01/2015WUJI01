@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/苏亦坤-2c3338?logo=Zhihu&style=flat-square)
 ![](https://img.shields.io/badge/苏亦坤-2c3338?logo=Alipay&style=flat-square)
 --> 
+
 ![](https://img.shields.io/badge/646792290-2c3338?logo=Tencent-QQ&style=flat-square&logoColor=ffffff) 
 ![](https://img.shields.io/badge/wujiankun1998@qq.com-2c3338?logo=Gmail&style=flat-square) 
 ![](https://img.shields.io/badge/cuber__k-2c3338?logo=WeChat&style=flat-square&logoColor=ffffff)
@@ -13,10 +14,10 @@
 <div align=center>
  <img src="https://github-readme-stats.vercel.app/api?username=2015wuji01&show_icons=true&count_private=true&hide=prs&theme=dracula&border_radius=10&cache_seconds=86400&hide_border=1&count_private=1" />
 </div>
-<br/>
-<div align=center>
+
+<!-- <div align=center>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Main%20Languages&username=2015wuji01&langs_count=4&card_width=445&hide=html,css,Python&layout=compact" />
-</div> 
+</div> -->
 
 #### 程序语言及框架  
 [![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=ffffff)]()
