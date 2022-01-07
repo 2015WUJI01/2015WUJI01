@@ -16,11 +16,11 @@
  
 </div>
 
-<p align=center>
+<div align=center>
  
 ![](https://img.shields.io/badge/646792290-2c3338?logo=Tencent-QQ&style=flat-square&logoColor=ffffff) ![](https://img.shields.io/badge/wujiankun1998@qq.com-2c3338?logo=Gmail&style=flat-square) ![](https://img.shields.io/badge/cuber__k-2c3338?logo=WeChat&style=flat-square&logoColor=ffffff)
 
-</p>
+</div>
 
 
 #### CSS Framework I have used  
