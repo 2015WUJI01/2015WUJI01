@@ -1,12 +1,4 @@
 <div align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=2015wuji01&show_icons=true&count_private=true&hide=prs&theme=dracula&border_radius=10&cache_seconds=86400&hide_border=1&count_private=1" />
-</div>
-
-<div align=center>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Main%20Languages&username=2015wuji01&langs_count=4&card_width=445&hide=html,css,Python&layout=compact" />
-</div> 
-  
-<div align=center>
  
 ![](https://img.shields.io/badge/苏亦坤-2c3338?logo=bilibili&style=flat-square)
 ![](https://img.shields.io/badge/苏亦坤-2c3338?logo=Zhihu&style=flat-square)
@@ -17,6 +9,16 @@
 ![](https://img.shields.io/badge/cuber__k-2c3338?logo=WeChat&style=flat-square&logoColor=ffffff)
 
 </div>
+
+<div align=center>
+ <img src="https://github-readme-stats.vercel.app/api?username=2015wuji01&show_icons=true&count_private=true&hide=prs&theme=dracula&border_radius=10&cache_seconds=86400&hide_border=1&count_private=1" />
+</div>
+<br/>
+<div align=center>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Main%20Languages&username=2015wuji01&langs_count=4&card_width=445&hide=html,css,Python&layout=compact" />
+</div> 
+  
+
 
 
 #### CSS Framework I have used  
