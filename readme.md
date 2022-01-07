@@ -18,15 +18,11 @@
 
 </div>
 
-<div style="display:inline-block" align=right>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=2015wuji01&show_icons=true&count_private=true&hide=prs&theme=dracula&border_radius=10&cache_seconds=86400&hide_border=1&count_private=1" />
 
- <br/>
+  <img align=right src="https://github-readme-stats.vercel.app/api?username=2015wuji01&show_icons=true&count_private=true&hide=prs&theme=dracula&border_radius=10&cache_seconds=86400&hide_border=1&count_private=1" />
  
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Main%20Languages&username=2015wuji01&langs_count=4&hide=html,css,Python&layout=compact" />
-</a>  
- </div>
+  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Main%20Languages&username=2015wuji01&langs_count=4&hide=html,css,Python&layout=compact" />
+
 
 #### CSS Framework I have used  
 [![](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=ffffff)]() [![](https://img.shields.io/badge/Bulma-00D1B2?style=flat-square&logo=arch-linux&logoColor=ffffff)]() [![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=ffffff)]() [![](https://img.shields.io/badge/Semantic%20UI-36bdb2?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACABAMAAAAxEHz4AAAAMFBMVEU1vbKi29bi8/Jcxr17z8fE6OT///+J08zY8O2t39psysKW19Hs9/a549/O7OkAAAA1s34QAAAACXBIWXMAAAsTAAALEwEAmpwYAAACUUlEQVRoBe2YvWsUURTFX3bHDzMqih+VhdWAijCFCBaBLRYFSaEIqU3cnIzRLKmsRCxkbQXD2EgIgqksUogoREhABoONWFinSuM/IYTBNzP3vfWdeWDj+5UD5+Tlztl77xv13xAIBAJR/9Or/lpbdffzCPt8XWmln0rwh+wUr/+IGr9Y/SYabHP6NxA8YPRHYOALYZDAxHdn/TsYeeiaiEkhJctwFTZucRWQLDnpj8HKgpPBdVh54WRQWPVDJ30MK+edDI7CilsOHlUUF973rtxYLagSqj2tf1kG6zX2OeFmoPUX681h3rEN6uhXnk6XJaR+yYPq47NAqsgcbtU67Gig3Dhs+eVMbNAGMrf8CfwMtnwNFtoZHGejL3PgeYRD0DxrNZNR4RIplg1pKeUNclTJZADZqXCHNTiABs/pKjbZpovQZJ4rZQeCbJkxmKRmkr2xe7yMGL5n+GDcT3pEFYzz9T7ZFCRPCYdpGJjj08SPd8053yOoJ+SqKZmCYKAo4kJkgb3x7KEB25+6P0UUPC8u9xTNtVohZhVPPJKrJkeUcK9BMgENKZXrd+p7hJ5qReFrkJMGJ0Wf5gxi7PoZrIsOnFOvsSs384Qy6OjQiw0+c79xfKs8OUjMBr1g7JjmzCIz14YbZU1mwKy/ETSXT9+M+mcKbsKuYxwtb95MDTsYx92/G8xgHMue/8GQuW+0ns457KTUzVWySK03kjnXhvoYZnb91hvMcj3Uc+HeFPqM7Odv5d8niX6I75m0xWpSnv72msdX4ZV+T/0jAoFAIPAbiNmfkNF0IpoAAAAASUVORK5CYII=&logoColor=ffffff)](https://semantic-ui.com/)
