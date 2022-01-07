@@ -18,6 +18,8 @@
 <div align=center>
  <img align=right src="https://github-readme-stats.vercel.app/api?username=2015wuji01&show_icons=true&count_private=true&hide=prs&theme=dracula&border_radius=10&cache_seconds=86400&hide_border=1&count_private=1" />
  
+ <div align=center>
+  
 ![](https://img.shields.io/badge/苏亦坤-2c3338?logo=bilibili&style=flat-square)
 ![](https://img.shields.io/badge/苏亦坤-2c3338?logo=Zhihu&style=flat-square)
 ![](https://img.shields.io/badge/苏亦坤-2c3338?logo=Alipay&style=flat-square)
@@ -25,8 +27,9 @@
 ![](https://img.shields.io/badge/646792290-2c3338?logo=Tencent-QQ&style=flat-square&logoColor=ffffff) 
 ![](https://img.shields.io/badge/wujiankun1998@qq.com-2c3338?logo=Gmail&style=flat-square) 
 ![](https://img.shields.io/badge/cuber__k-2c3338?logo=WeChat&style=flat-square&logoColor=ffffff)
+  
+ </div>
  
-  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Main%20Languages&username=2015wuji01&langs_count=4&hide=html,css,Python&layout=compact" />
 </div>
 
 
@@ -48,3 +51,5 @@
 
 #### 其他  
 [![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)]() [![](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=ffffff)]() [![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)]() [![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=ffffff)]() [![](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)]() [![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)]() [![](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=Composer&logoColor=ffffff)]() [![](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=flat-square&logo=Affinity-Photo&logoColor=ffffff)]() [![](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)]() [![](https://img.shields.io/badge/Affinity%20Publisher-C9284D?style=flat-square&logo=Affinity-Publisher&logoColor=ffffff)]()
+
+  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Main%20Languages&username=2015wuji01&langs_count=4&hide=html,css,Python&layout=compact" />
