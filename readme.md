@@ -1,4 +1,12 @@
 <div align=center>
+ <img src="https://github-readme-stats.vercel.app/api?username=2015wuji01&show_icons=true&count_private=true&hide=prs&theme=dracula&border_radius=10&cache_seconds=86400&hide_border=1&count_private=1" />
+</div>
+
+<!-- <div align=center>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Main%20Languages&username=2015wuji01&langs_count=4&card_width=445&hide=html,css,Python&layout=compact" />
+</div> -->
+
+<div align=center>
 <!-- 
 ![](https://img.shields.io/badge/苏亦坤-2c3338?logo=bilibili&style=flat-square)
 ![](https://img.shields.io/badge/苏亦坤-2c3338?logo=Zhihu&style=flat-square)
@@ -10,14 +18,6 @@
 ![](https://img.shields.io/badge/cuber__k-2c3338?logo=WeChat&style=flat-square&logoColor=ffffff)
 
 </div>
-
-<div align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=2015wuji01&show_icons=true&count_private=true&hide=prs&theme=dracula&border_radius=10&cache_seconds=86400&hide_border=1&count_private=1" />
-</div>
-
-<!-- <div align=center>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Main%20Languages&username=2015wuji01&langs_count=4&card_width=445&hide=html,css,Python&layout=compact" />
-</div> -->
 
 #### 程序语言及框架  
 [![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=ffffff)]()
@@ -43,6 +43,7 @@
 [![](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/Affinity%20Publisher-C9284D?style=flat-square&logo=Affinity-Publisher&logoColor=ffffff)]()
 
+<!--
 #### 主要操作系统  
 ![主要操作系统](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)
-
+--> 
