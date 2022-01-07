@@ -8,14 +8,14 @@
 
 <div align=center>
 <!-- 
-![](https://img.shields.io/badge/苏亦坤-2c3338?logo=bilibili&style=flat-square&logoColor=000000)
+![](https://img.shields.io/badge/苏亦坤-2c3338?logo=bilibili&style=flat-square)
 ![](https://img.shields.io/badge/苏亦坤-2c3338?logo=Zhihu&style=flat-square)
-![](https://img.shields.io/badge/苏亦坤-2c3338?logo=Alipay&style=flat-square&logoColor=07C160)
+![](https://img.shields.io/badge/苏亦坤-2c3338?logo=Alipay&style=flat-square)
 --> 
 
-![](https://img.shields.io/badge/646792290-2c3338?logo=Tencent-QQ&style=flat-square&logoColor=ffffff) 
+![](https://img.shields.io/badge/646792290-2c3338?logo=Tencent-QQ&style=flat-square&logoColor=000000) 
 ![](https://img.shields.io/badge/wujiankun1998@qq.com-2c3338?logo=Gmail&style=flat-square) 
-![](https://img.shields.io/badge/cuber__k-2c3338?logo=WeChat&style=flat-square&logoColor=ffffff)
+![](https://img.shields.io/badge/cuber__k-2c3338?logo=WeChat&style=flat-square&logoColor=07C160)
 
 </div>
 
