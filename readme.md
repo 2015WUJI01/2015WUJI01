@@ -19,6 +19,9 @@
 </div>
 
 <a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=2015wuji01&show_icons=true&count_private=true&hide=prs&theme=dracula&border_radius=10&cache_seconds=86400&hide_border=1&count_private=1" />
+</a>  
+<a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Main%20Languages&username=2015wuji01&langs_count=4&hide=html,css,Python&layout=compact" />
 </a>  
 
