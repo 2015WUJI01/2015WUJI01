@@ -18,9 +18,9 @@
 
 </div>
 
-<div align=right>
+<div style="display:inline-block" align=right>
 <a href="#">
-  <img  src="https://github-readme-stats.vercel.app/api?username=2015wuji01&show_icons=true&count_private=true&hide=prs&theme=dracula&border_radius=10&cache_seconds=86400&hide_border=1&count_private=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2015wuji01&show_icons=true&count_private=true&hide=prs&theme=dracula&border_radius=10&cache_seconds=86400&hide_border=1&count_private=1" />
 
  <br/>
  
