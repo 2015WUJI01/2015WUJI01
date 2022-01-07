@@ -17,17 +17,6 @@
 <div align=center>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Main%20Languages&username=2015wuji01&langs_count=4&card_width=445&hide=html,css,Python&layout=compact" />
 </div> 
-  
-
-
-
-#### CSS Framework I have used  
-
-
-
-#### 主要操作系统  
-![主要操作系统](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)
-
 
 #### 程序语言及框架  
 [![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=ffffff)]()
@@ -53,4 +42,6 @@
 [![](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/Affinity%20Publisher-C9284D?style=flat-square&logo=Affinity-Publisher&logoColor=ffffff)]()
 
-  
+#### 主要操作系统  
+![主要操作系统](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)
+
