@@ -39,6 +39,7 @@
 [![](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=Composer&logoColor=ffffff)]()
+
 [![](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=flat-square&logo=Affinity-Photo&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/Affinity%20Publisher-C9284D?style=flat-square&logo=Affinity-Publisher&logoColor=ffffff)]()
