@@ -20,8 +20,8 @@
 </div>
 
 #### 程序语言及框架  
-[![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=ffffff)](https://www.php.net/)
 [![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=ffffff)](https://go.dev/)
+[![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=ffffff)](https://www.php.net/)
 
 [![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=ffffff)](https://laravel.com/)
 [![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)](https://vuejs.org/)
